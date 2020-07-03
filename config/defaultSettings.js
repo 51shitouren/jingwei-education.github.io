@@ -2,7 +2,7 @@ const proSettings = {
   navTheme: 'dark',
   // 拂晓蓝
   primaryColor: '#1890ff',
-  layout: 'sidemenu',
+  layout: 'topmenu',
   contentWidth: 'Fluid',
   fixedHeader: false,
   fixSiderbar: false,
@@ -10,7 +10,7 @@ const proSettings = {
   menu: {
     locale: true,
   },
-  title: 'Ant Design Pro',
+  title: '经纬教育',
   pwa: false,
   iconfontUrl: '',
 };
